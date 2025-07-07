@@ -20,3 +20,7 @@ Primarily usses "Data sale.csv" and other data freely available from open source
 - Identify initial patterns, trends, and anomalies.
 
 
+### Analysis
+
+
+[Amazon Clean File.xlsx](https://github.com/user-attachments/files/21093683/Amazon.Clean.File.xlsx)
