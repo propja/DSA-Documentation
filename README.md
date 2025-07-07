@@ -10,3 +10,13 @@ Primarily usses "Data sale.csv" and other data freely available from open source
 - Ms Excel for Data cleaning[Download Here](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 - SQL sever (for Quering and Analysis)
 - Power BI (for Creating Report)
+
+### Exploratory Data Analysis (EDA)
+
+- Summarize key statistics and distributions.
+
+- Visualize relationships between variables using various charts (histograms, scatter plots, box plots, heatmaps).
+
+- Identify initial patterns, trends, and anomalies.
+
+
