@@ -8,10 +8,8 @@ Primarily usses "Data sale.csv" and other data freely available from open source
 
 ### TOOLS USED
 - Ms Excel for Data cleaning[Download Here](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
-  -For Data Collection
-  -For Data Cleaning 
-- SQL sever (for Quering and Analysis)
-- Power BI (for Creating Report)
+  - For Data Collection
+  - For Data Cleaning 
 
 ### Exploratory Data Analysis (EDA)
 
