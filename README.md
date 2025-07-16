@@ -9,7 +9,14 @@ Primarily usses "Data sale.csv" and other data freely available from open source
 ### TOOLS USED
 - Ms Excel for Data cleaning[Download Here](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
   - For Data Collection
-  - For Data Cleaning 
+  - For Data Cleaning
+      1. Handle missing values, outliers, and data inconsistencies.
+
+      2. Standardize data formats and types.
+
+      3. Perform text preprocessing for review data (tokenization, stemming, lemmatization).
+
+      4. Feature engineering: Create new features from existing data (e.g., average review sentiment, product age, time since last purchase).
 
 ### Exploratory Data Analysis (EDA)
 
@@ -18,6 +25,8 @@ Primarily usses "Data sale.csv" and other data freely available from open source
 - Visualize relationships between variables using various charts (histograms, scatter plots, box plots, heatmaps).
 
 - Identify initial patterns, trends, and anomalies.
+
+###
 
 
 ### Analysis
