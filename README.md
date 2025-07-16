@@ -10,6 +10,8 @@ Primarily usses "Data sale.csv" and other data freely available from open source
 - Ms Excel for Data cleaning[Download Here](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
   - For Data Collection
   - For Data Cleaning
+
+### Data Cleaning & Preprocessing
       1. Handle missing values, outliers, and data inconsistencies.
 
       2. Standardize data formats and types.
